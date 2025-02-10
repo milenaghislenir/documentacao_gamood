@@ -19,3 +19,15 @@
 > Os administradores têm acesso a um painel para gerenciar e monitorar as reservas: visualizar reservas futuras, com dados sobre jogos, horários e valores. O sistema deve gerar relatórios financeiros para acompanhar o fluxo de receitas do sistema de aluguel. Também deve ajustar preços ou categorias de jogos, conforme necessidade.
 
 > O cliente pode avaliar a experiência de uso e o feedback (incluindo a experiência com os jogos ofertados) é coletado para melhorar os serviços do clube. O cliente também pode consultar seu histórico de reservas, jogos e pagamentos feitos.
+
+## 1\.1 Objetivo
+
+O objetivo deste documento é fornecer uma visão geral do projeto **Gamood Club**. Ele descreve a finalidade do projeto, os principais stakeholders envolvidos, os requisitos principais, os diagramas de caso de uso, diagrama de classes e protótipos de possíveis telas para o sistema.
+
+## 1\.2 Escopo
+
+Este projeto visa desenvolver um sistema eficiente que terá como finalidade reservar horários para utilizar jogos, de forma fácil e autônoma, por parte dos próprios usuários. O sistema se destina aos usuários que irão realizar as reservas e aos administradores que irão acompanhar seus clientes.
+
+## 1\.3 Público-alvo
+
+Este documento destina-se a todas as partes interessadas envolvidas no desenvolvimento, implementação e uso do software Gamood Club. Isso inclui membros da equipe de desenvolvimento, gerentes de projeto, clientes, usuários finais e outras partes interessadas relevantes.
